@@ -2,6 +2,7 @@
 
 Free, zero-signup web diagnostics, open-source MIT checklists, CLIs, and MCP servers for indie builders shipping with **Cursor, Lovable, Bolt, v0, Next.js, Vercel, Cloudflare, and Supabase**.
 
+[![OmniForge 3-Engine Launch Score](https://omnipulse-x402.appwrite.network/v1/badge/suite.svg?domain=supabase.com)](https://zcoldwater.github.io/launch-audit-reports/tools/)
 [![VibeShield Live Audit](https://vibe-checker.appwrite.network/api/badge.svg?url=supabase.com)](https://vibe-checker.appwrite.network)
 [![InboxShield DNS Audit](https://inbox-checker.appwrite.network/badge/inbox/stripe.com.svg)](https://inbox-checker.appwrite.network)
 [![BrandShield Clearance](https://brand-checker.appwrite.network/badge/brand/OmniForge.svg)](https://brand-checker.appwrite.network)
