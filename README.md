@@ -2,11 +2,11 @@
 
 Free, zero-signup web diagnostics, open-source MIT checklists, CLIs, and MCP servers for indie builders shipping with **Cursor, Lovable, Bolt, v0, Next.js, Vercel, Cloudflare, and Supabase**.
 
-[![OmniForge 3-Engine Launch Score](https://omnipulse-x402.appwrite.network/v1/badge/suite.svg?domain=supabase.com)](https://zcoldwater.github.io/launch-audit-reports/tools/)
-[![VibeShield Live Audit](https://vibe-checker.appwrite.network/api/badge.svg?url=supabase.com)](https://vibe-checker.appwrite.network)
-[![InboxShield DNS Audit](https://inbox-checker.appwrite.network/badge/inbox/stripe.com.svg)](https://inbox-checker.appwrite.network)
-[![BrandShield Clearance](https://brand-checker.appwrite.network/badge/brand/OmniForge.svg)](https://brand-checker.appwrite.network)
-[![CiteReady AI Search](https://citeready-checker.appwrite.network/badge.svg?url=stripe.com)](https://citeready-checker.appwrite.network)
+[![OmniForge 3-Engine Launch Score](https://api.shipbastion.com/v1/badge/suite.svg?domain=supabase.com)](https://zcoldwater.github.io/launch-audit-reports/tools/)
+[![VibeShield Live Audit](https://shipbastion.com/api/badge.svg?url=supabase.com)](https://shipbastion.com)
+[![InboxShield DNS Audit](https://inbox.shipbastion.com/badge/inbox/stripe.com.svg)](https://inbox.shipbastion.com)
+[![BrandShield Clearance](https://brand.shipbastion.com/badge/brand/OmniForge.svg)](https://brand.shipbastion.com)
+[![CiteReady AI Search](https://cite.shipbastion.com/badge.svg?url=stripe.com)](https://cite.shipbastion.com)
 [![Featured on Awesome Black Friday Deals 2026](https://img.shields.io/badge/Featured_on-Awesome_Black_Friday_Deals_2026-black)](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals)
 
 ---
@@ -15,24 +15,24 @@ Free, zero-signup web diagnostics, open-source MIT checklists, CLIs, and MCP ser
 
 | Tool | What It Audits Live | Free Tier | Launch Special Unlock |
 | --- | --- | --- | --- |
-| **[VibeShield v7.0](https://vibe-checker.appwrite.network)** | 6-phase passive security scan (`116` checks): client JS bundles (52 secret patterns), 10 Mozilla Observatory headers, CSP AST, 28 SPA-filtered paths & safe Supabase/Firebase probes | Full 6-phase score, severity breakdown & live trace | **$2** one-time (was ~~$9~~) — exact line locations + 5-platform fixes ([Unlock](https://omnipulse-x402.appwrite.network/go/gumroad/vibeshield)) |
-| **[InboxShield v7.0](https://inbox-checker.appwrite.network)** | 6-phase email DNS & deliverability audit: recursive SPF `<=10` lookup flattener, 24 DKIM selectors, DMARC syntax, MTA-STS, BIMI & 5 DNSBLs | Full DNS score, protocol trace & [SPF Flattener](https://inbox-checker.appwrite.network/spf-flattener) | **$2** one-time (was ~~$9~~) — zero-conflict registrar fix records ([Unlock](https://omnipulse-x402.appwrite.network/go/gumroad/inboxshield)) |
-| **[CiteReady v6.0](https://citeready-checker.appwrite.network)** | AI Search & GEO readiness: 10 global & China AI crawlers, Schema.org `@graph` Builder, `/robots-builder`, competitor PK & `/llms.txt` compiler | Full AI readiness audit, [`/llms.txt` Generator](https://citeready-checker.appwrite.network/generator), [`/robots-builder`](https://citeready-checker.appwrite.network/robots-builder) & [`/schema-builder`](https://citeready-checker.appwrite.network/schema-builder) | **$2** one-time (was ~~$12~~) — 5-platform Schema & `/llms.txt` fixes ([Unlock](https://omnipulse-x402.appwrite.network/go/gumroad/citeready)) |
-| **[BrandShield v6.5](https://brand-checker.appwrite.network)** | Startup domain & trademark clearance: 78+ TLD direct IANA RDAP (`/tlds`), **28-variant Typosquatting Shield (`/typos`)**, live USPTO Class 009/042 check & [AI Brand Namer](https://brand-checker.appwrite.network/namer) | **100% Free** (all features unlocked, no paywall) | Free forever |
+| **[VibeShield v7.0](https://shipbastion.com)** | 6-phase passive security scan (`116` checks): client JS bundles (52 secret patterns), 10 Mozilla Observatory headers, CSP AST, 28 SPA-filtered paths & safe Supabase/Firebase probes | Full 6-phase score, severity breakdown & live trace | **$2** one-time (was ~~$9~~) — exact line locations + 5-platform fixes ([Unlock](https://api.shipbastion.com/go/gumroad/vibeshield)) |
+| **[InboxShield v7.0](https://inbox.shipbastion.com)** | 6-phase email DNS & deliverability audit: recursive SPF `<=10` lookup flattener, 24 DKIM selectors, DMARC syntax, MTA-STS, BIMI & 5 DNSBLs | Full DNS score, protocol trace & [SPF Flattener](https://inbox.shipbastion.com/spf-flattener) | **$2** one-time (was ~~$9~~) — zero-conflict registrar fix records ([Unlock](https://api.shipbastion.com/go/gumroad/inboxshield)) |
+| **[CiteReady v6.0](https://cite.shipbastion.com)** | AI Search & GEO readiness: 10 global & China AI crawlers, Schema.org `@graph` Builder, `/robots-builder`, competitor PK & `/llms.txt` compiler | Full AI readiness audit, [`/llms.txt` Generator](https://cite.shipbastion.com/generator), [`/robots-builder`](https://cite.shipbastion.com/robots-builder) & [`/schema-builder`](https://cite.shipbastion.com/schema-builder) | **$2** one-time (was ~~$12~~) — 5-platform Schema & `/llms.txt` fixes ([Unlock](https://api.shipbastion.com/go/gumroad/citeready)) |
+| **[BrandShield v6.5](https://brand.shipbastion.com)** | Startup domain & trademark clearance: 78+ TLD direct IANA RDAP (`/tlds`), **28-variant Typosquatting Shield (`/typos`)**, live USPTO Class 009/042 check & [AI Brand Namer](https://brand.shipbastion.com/namer) | **100% Free** (all features unlocked, no paywall) | Free forever |
 
-> **OmniForge Complete Suite (All 3 Pro Unlocks):** **$5** one-time Launch Special (was ~~$29~~, zero monthly subscription, 14-day refund guarantee) — [Gumroad](https://omnipulse-x402.appwrite.network/go/gumroad/launch-stack) · [Direct Checkout](https://omnipulse-x402.appwrite.network/checkout/launch-stack)
+> **OmniForge Complete Suite (All 3 Pro Unlocks):** **$5** one-time Launch Special (was ~~$29~~, zero monthly subscription, 14-day refund guarantee) — [Gumroad](https://api.shipbastion.com/go/gumroad/launch-stack) · [Direct Checkout](https://api.shipbastion.com/checkout/launch-stack)
 
 ### Zero-Install Terminal Audits (`curl | sh`, POSIX `sh` — Zero Dependencies)
 
 ```bash
 # Run any single flagship auditor directly from your terminal (CI gate: --fail-below 80)
-curl -fsSL https://vibe-checker.appwrite.network/cli.sh      | sh -s -- yourdomain.com
-curl -fsSL https://inbox-checker.appwrite.network/cli.sh     | sh -s -- yourdomain.com
-curl -fsSL https://citeready-checker.appwrite.network/cli.sh | sh -s -- yourdomain.com
-curl -fsSL https://brand-checker.appwrite.network/cli.sh     | sh -s -- YourBrand
+curl -fsSL https://shipbastion.com/cli.sh      | sh -s -- yourdomain.com
+curl -fsSL https://inbox.shipbastion.com/cli.sh     | sh -s -- yourdomain.com
+curl -fsSL https://cite.shipbastion.com/cli.sh | sh -s -- yourdomain.com
+curl -fsSL https://brand.shipbastion.com/cli.sh     | sh -s -- YourBrand
 
 # Or run Security + Email DNS + AI Search concurrently in one command:
-curl -fsSL https://omnipulse-x402.appwrite.network/cli.sh    | sh -s -- --suite yourdomain.com
+curl -fsSL https://api.shipbastion.com/cli.sh    | sh -s -- --suite yourdomain.com
 ```
 
 ---
@@ -51,4 +51,4 @@ curl -fsSL https://omnipulse-x402.appwrite.network/cli.sh    | sh -s -- --suite 
 
 ---
 
-**Contact & Support:** OmniForge · Agent Arena Studio · `agentarenastudio@proton.me` · [@agentarenastudi](https://x.com/agentarenastudi) · [Support Portal](https://omnipulse-x402.appwrite.network/support) · [14-Day Refund Policy](https://omnipulse-x402.appwrite.network/refund-policy)
+**Contact & Support:** OmniForge · Agent Arena Studio · `agentarenastudio@proton.me` · [@agentarenastudi](https://x.com/agentarenastudi) · [Support Portal](https://api.shipbastion.com/support) · [14-Day Refund Policy](https://api.shipbastion.com/refund-policy)
