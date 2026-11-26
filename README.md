@@ -1,5 +1,16 @@
 # OmniForge · Pre-Launch Engineering & Security Tools (`zColdWater`)
 
+
+<!-- shipbastion-hero:start -->
+<p align="center">
+  <a href="https://shipbastion.com/">
+    <img src="./assets/shipbastion-suite-preview.png" alt="ShipBastion — Pre-Launch Web Security, Email Deliverability, AI Search & Domain Suite" width="100%" />
+  </a>
+</p>
+
+*Live production suite at [shipbastion.com](https://shipbastion.com/) · [inbox.shipbastion.com](https://inbox.shipbastion.com/) · [cite.shipbastion.com](https://cite.shipbastion.com/) · [brand.shipbastion.com](https://brand.shipbastion.com/).*
+<!-- shipbastion-hero:end -->
+
 Free, zero-signup web diagnostics, open-source MIT checklists, CLIs, and MCP servers for indie builders shipping with **Cursor, Lovable, Bolt, v0, Next.js, Vercel, Cloudflare, and Supabase**.
 
 [![OmniForge 3-Engine Launch Score](https://api.shipbastion.com/v1/badge/suite.svg?domain=supabase.com)](https://zcoldwater.github.io/launch-audit-reports/tools/)
